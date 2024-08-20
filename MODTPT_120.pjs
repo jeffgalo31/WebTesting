@@ -2,12 +2,10 @@
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{E8847DE2-06FC-4D5C-AECD-7DF8D0BD85C6}">
 	<children>
 		<child name="MODTPT_120" key="{52E885F5-8E9E-4060-B907-A5DE0E8EA79D}" path="MODTPT_120\MODTPT_120.mds" />
-		<child name="WebTesting" key="{D8CF484C-BDE5-4B13-93B6-E9E9042BA150}" path="..\WebTesting\WebTesting.mds" />
 	</children>
 	<testItems key="{E4BA8EF4-4A7D-4891-8B19-83581F4BBC00}">
 		<children>
 			<testItem key="{52E885F5-8E9E-4060-B907-A5DE0E8EA79D}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{D8CF484C-BDE5-4B13-93B6-E9E9042BA150}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{6D1910CB-8038-403D-AD8C-ADB53DC53290}" />
