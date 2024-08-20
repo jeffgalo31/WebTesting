@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{70E0CCEE-8074-4434-BD77-E41087BFFC17}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{0E047986-FC9E-461D-940D-621772602131}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{0B32F8F2-2E91-4672-956F-79FE40A2B649}">
+								<Image FileName="-1626165470" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="2" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageModtpt138ControlAccessToSear" Key="{141A0A13-DBAA-4807-B1A4-EAD1C16A8586}">
+								<Image FileName="-1626165470" Left="0" Top="87" Right="1920" Bottom="1005" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://github.deere.com/OperationsDigitalTwinV2/odt-entity-service/pull/163" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkModtpt138ControlAccessAsset" Key="{C5407C8E-20D9-47B1-9778-EE6E883DC734}">
+										<Image FileName="-1626165470" Left="737" Top="301" Right="1031" Bottom="319" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;MODTPT-138/Control-access-asset-site&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//turbo-frame//div[3]//a[@title=&apos;OperationsDigitalTwinV2/odt-entity-service:MODTPT-138/Control-access-asset-site&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//turbo-frame//div[@id=&apos;partial-discussion-header&apos;]/div[3]//span[4]/a[contains(@class, &apos;no-underline&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;partial-discussion-header&apos;]//span[4]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[4]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeModtpt138ControlAccessAs" Key="{2B509648-6F63-40B4-925A-FC0BBB29C5C3}">
+										<Image FileName="-1626165470" Left="737" Top="297" Right="1031" Bottom="324" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[text()=&apos;MODTPT-138/Control-access-asset-site&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;partial-discussion-header&apos;]/div[3]//span[4]/a/span[contains(@class, &apos;css-truncate-target&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSkipToContent" Key="{E0564F27-3855-4C8F-B59F-101BDD9A57B2}">
+										<Image FileName="-1626165470" Left="0" Top="-13" Right="1903" Bottom="7496" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Skip to content&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;logged-in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="navPullRequestTabs" Key="{6AE5B9F5-E76B-4CE0-979E-A5C2AEF3566C}">
+										<Image FileName="-354042938" Left="191" Top="360" Right="1582" Bottom="410" />
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;Conversation&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[contains(@class, &apos;tabnav-tabs&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//turbo-frame[@id=&apos;repo-content-turbo-frame&apos;]//nav" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]//main/turbo-frame[@id=&apos;repo-content-turbo-frame&apos;]//nav" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkFilesChanged" Key="{94969FE1-454F-4F96-9CC0-D883BB721EFA}">
+										<Image FileName="-354042938" Left="743" Top="360" Right="955" Bottom="410" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Files changed&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelDescription" Key="{EA830A1C-1854-4DBC-BCAF-4ADCDF636A5C}">
+										<Image FileName="2090767159" Left="263" Top="477" Right="1311" Bottom="1685" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//task-lists/div[contains(@class, &apos;comment-body&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;discussion_bucket&apos;]//task-lists/div" />
+											</Selector>
+											<Selector>
+												<Value Value="//turbo-frame[@id=&apos;repo-content-turbo-frame&apos;]//task-lists/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{112AC78C-C01B-4950-BD79-541F8CE09759}">
+								<Image FileName="32604476" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{77E91488-099F-4EFA-A703-00EA75524088}">
+										<Image FileName="-2063166157" Left="0" Top="87" Right="1920" Bottom="1040" />
+										<TypeInfo Item0="{C2E22E91-F218-48CE-9261-CDA277ACBA39}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageChromeExtension" Key="{1BF6C5C4-95CB-46D9-B7B6-3FD034B9FADA}">
+								<Image FileName="1360197834" Left="0" Top="87" Right="1920" Bottom="1040" />
+								<TypeInfo Item0="{133A5502-4345-4A48-A3CB-0C513633268C}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://support.smartbear.com/testcomplete/docs/app-testing/web/general/preparing-browsers/chrome-extension.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelThe" Key="{035CBFE9-EB49-414D-A81E-935EB94A8B75}">
+										<Image FileName="-609408496" Left="435" Top="276" Right="1255" Bottom="3802" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;doc-page-content&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeThe" Key="{6AFAC185-6EDC-4FB3-99EB-B43423023BDB}">
+										<Image FileName="-1957800986" Left="455" Top="316" Right="1195" Bottom="377" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[contains(., &apos;SmartBear Test Extension&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkLearnMore" Key="{D7560120-1A4C-4BCB-A955-CD2C11CB6556}">
+										<Image FileName="-1957800986" Left="1044" Top="962" Right="1110" Bottom="978" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Learn more&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;dialog&apos;]/div/p/a[contains(@class, &apos;ch2-learn-more&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;dialog&apos;]/div/p/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{3BCCFB69-EFEB-4B2D-8EDF-01A59C1D02FE}">
+										<Image FileName="-21412094" Left="455" Top="388" Right="1195" Bottom="429" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="(//p)[105]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panel" Key="{19E49600-47BB-4362-8CCE-297B281157F5}">
+										<Image FileName="1757573107" Left="471" Top="444" Right="1195" Bottom="543" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div/div[contains(@class, &apos;aqImage&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageOperationsDigitalTwin" Key="{9C35D9EF-71D7-4B02-B1F3-B045B1A296E3}">
+								<Image FileName="-117246564" Left="0" Top="87" Right="1920" Bottom="1006" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://digitaltwin-devl.tal.deere.com/home" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelSetDefaultSite" Key="{AD8E4557-CF86-417D-9603-8C9FD394F505}">
+										<Image FileName="-117246564" Left="0" Top="87" Right="1920" Bottom="1006" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;MuiDialog-container&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelSetDefaultSite2" Key="{131FD8D3-3C1E-49E7-8438-E1479E857118}">
+										<Image FileName="-1930043016" Left="668" Top="368" Right="1232" Bottom="588" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;MuiGrid-container&apos;)]/div/div[contains(@class, &apos;MuiGrid-container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="labelDefaultSite" Key="{0583CE43-6AF7-419E-AB0D-91BE2C8E5700}">
+										<Image FileName="-425867618" Left="688" Top="528" Right="1232" Bottom="548" />
+										<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//label[text()=&apos;Default Site&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//label[contains(@class, &apos;MuiFormLabel-root&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//label" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageOperationsDigitalTwin2" Key="{770814A6-C31F-4093-8BD4-D5CA10D3865A}">
+								<Image FileName="1571886099" Left="8" Top="95" Right="1928" Bottom="1014" />
+								<TypeInfo Item0="{9B80582B-FE67-4963-A985-88C11DFDFC75}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://digitaltwin-devl.tal.deere.com/home/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelSetDefaultSite" Key="{ABB7A5DB-D117-488E-867A-DADA67192813}">
+										<Image FileName="1571886099" Left="8" Top="95" Right="1928" Bottom="1014" />
+										<TypeInfo Item0="{188FB837-7CD6-486F-B668-AEDD3BF02510}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;MuiDialog-container&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonContinueWithNoDefault" Key="{653C227E-0F75-47EF-93A4-948F979C2751}">
+										<Image FileName="-826733757" Left="925" Top="670" Right="1125" Bottom="706" />
+										<TypeInfo Item0="{9CB1ED64-C549-4DE5-A29B-6B6DF16A1973}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Continue with no default&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;dialog&apos;]//div/div[3]/div/div/button[@type=&apos;button&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;dialog&apos;]//div/div[3]/div/div/button[contains(@class, &apos;MuiButtonBase-root&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@role=&apos;dialog&apos;]//div/div[3]/div/div/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelSetDefaultSite2" Key="{7A2AD145-5F47-42E6-87E9-68F695ACC5F4}">
+										<Image FileName="646964120" Left="8" Top="95" Right="1928" Bottom="1014" />
+										<TypeInfo Item0="{188FB837-7CD6-486F-B668-AEDD3BF02510}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;MuiDialog-container&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow3" Key="{15AFD8DD-7F91-4318-A256-95058D12B2CC}">
+								<Image FileName="1369720373" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageDetails" Key="{313E4661-7B39-4961-BC49-24CC7E535522}">
+								<Image FileName="1369720373" Left="0" Top="121" Right="1920" Bottom="1040" />
+								<TypeInfo Item0="{133A5502-4345-4A48-A3CB-0C513633268C}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://digitaltwin-devl.tal.deere.com/model-viewer/rMEYgC1jKASq/details" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="frameMpIframe" Key="{80EA26B6-73A6-46E3-B7DE-37567D33005C}">
+										<Image FileName="-808598497" Left="560" Top="210" Right="1920" Bottom="1002" />
+										<Selectors>
+											<Selector>
+												<Value Value="#mp-iframe" />
+											</Selector>
+											<Selector>
+												<Value Value="//iframe[@title=&apos;mp-iframe&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//iframe" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="sectionAppContainer" Key="{1169010E-C2EC-450A-BA58-8E7631C0758A}">
+												<Image FileName="-808598497" Left="560" Top="210" Right="1920" Bottom="1002" />
+												<Selectors>
+													<Selector>
+														<Value Value="#app-container" />
+													</Selector>
+													<Selector>
+														<Value Value="section[contains(., &apos;D102 - PRESS BRAKES&apos;)]" />
+													</Selector>
+													<Selector>
+														<Value Value="section" />
+													</Selector>
+												</Selectors>
+											</Child>
+											<Child Name="canvasD102PressBrakes" Key="{DAD3B012-4473-4307-969C-1FE968FF9636}">
+												<Image FileName="-808598497" Left="560" Top="210" Right="1920" Bottom="1002" />
+												<TypeInfo Item0="{9F6212EF-2708-4693-A681-464B1CF23550}" />
+												<Selectors>
+													<Selector>
+														<Value Value="//canvas[contains(@class, &apos;webgl-canvas&apos;)]" />
+													</Selector>
+													<Selector>
+														<Value Value="//div[@id=&apos;canvas-container&apos;]/canvas" />
+													</Selector>
+													<Selector>
+														<Value Value="//canvas" />
+													</Selector>
+												</Selectors>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{679CB43A-627E-4ECF-8CCA-617217A1D025}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_SecondaryTrayWnd" Key="{EB352DE0-2FD5-4327-9FFA-593A28A691B8}">
+								<Image FileName="-932385640" Left="0" Top="0" Right="1920" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_SecondaryTrayWnd" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="2" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="WorkerW" Key="{D67CAD5D-0DE4-4169-8B31-59B5B1A6CD27}">
+										<Image FileName="-932385640" Left="96" Top="0" Right="1856" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WorkerW" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskListWClass" Key="{20B6EC69-D3DF-464F-A55E-238BF6C00050}">
+												<Image FileName="-932385640" Left="96" Top="0" Right="1856" Bottom="40" />
+												<TypeInfo Item0="{C2E22E91-F218-48CE-9261-CDA277ACBA39}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MSTaskListWClass" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{0E047986-FC9E-461D-940D-621772602131}">
+			<Child Name="BrowserWindow" Owner="{0B32F8F2-2E91-4672-956F-79FE40A2B649}" />
+			<Child Name="pageModtpt138ControlAccessToSear" Owner="{141A0A13-DBAA-4807-B1A4-EAD1C16A8586}">
+				<Child Name="linkModtpt138ControlAccessAsset" Owner="{C5407C8E-20D9-47B1-9778-EE6E883DC734}">
+					<Child Name="textnodeModtpt138ControlAccessAs" Owner="{2B509648-6F63-40B4-925A-FC0BBB29C5C3}" />
+				</Child>
+				<Child Name="textnodeSkipToContent" Owner="{E0564F27-3855-4C8F-B59F-101BDD9A57B2}" />
+				<Child Name="navPullRequestTabs" Owner="{6AE5B9F5-E76B-4CE0-979E-A5C2AEF3566C}">
+					<Child Name="linkFilesChanged" Owner="{94969FE1-454F-4F96-9CC0-D883BB721EFA}" />
+				</Child>
+				<Child Name="panelDescription" Owner="{EA830A1C-1854-4DBC-BCAF-4ADCDF636A5C}" />
+			</Child>
+			<Child Name="BrowserWindow2" Owner="{112AC78C-C01B-4950-BD79-541F8CE09759}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{77E91488-099F-4EFA-A703-00EA75524088}" />
+			</Child>
+			<Child Name="pageChromeExtension" Owner="{1BF6C5C4-95CB-46D9-B7B6-3FD034B9FADA}">
+				<Child Name="panelThe" Owner="{035CBFE9-EB49-414D-A81E-935EB94A8B75}" />
+				<Child Name="textnodeThe" Owner="{6AFAC185-6EDC-4FB3-99EB-B43423023BDB}" />
+				<Child Name="linkLearnMore" Owner="{D7560120-1A4C-4BCB-A955-CD2C11CB6556}" />
+				<Child Name="textnode" Owner="{3BCCFB69-EFEB-4B2D-8EDF-01A59C1D02FE}" />
+				<Child Name="panel" Owner="{19E49600-47BB-4362-8CCE-297B281157F5}" />
+			</Child>
+			<Child Name="pageOperationsDigitalTwin" Owner="{9C35D9EF-71D7-4B02-B1F3-B045B1A296E3}">
+				<Child Name="panelSetDefaultSite" Owner="{AD8E4557-CF86-417D-9603-8C9FD394F505}" />
+				<Child Name="panelSetDefaultSite2" Owner="{131FD8D3-3C1E-49E7-8438-E1479E857118}" />
+				<Child Name="labelDefaultSite" Owner="{0583CE43-6AF7-419E-AB0D-91BE2C8E5700}" />
+			</Child>
+			<Child Name="pageOperationsDigitalTwin2" Owner="{770814A6-C31F-4093-8BD4-D5CA10D3865A}">
+				<Child Name="panelSetDefaultSite" Owner="{ABB7A5DB-D117-488E-867A-DADA67192813}" />
+				<Child Name="buttonContinueWithNoDefault" Owner="{653C227E-0F75-47EF-93A4-948F979C2751}" />
+				<Child Name="panelSetDefaultSite2" Owner="{7A2AD145-5F47-42E6-87E9-68F695ACC5F4}" />
+			</Child>
+			<Child Name="BrowserWindow3" Owner="{15AFD8DD-7F91-4318-A256-95058D12B2CC}" />
+			<Child Name="pageDetails" Owner="{313E4661-7B39-4961-BC49-24CC7E535522}">
+				<Child Name="frameMpIframe" Owner="{80EA26B6-73A6-46E3-B7DE-37567D33005C}">
+					<Child Name="sectionAppContainer" Owner="{1169010E-C2EC-450A-BA58-8E7631C0758A}">
+						<Child Name="canvasD102PressBrakes" Owner="{DAD3B012-4473-4307-969C-1FE968FF9636}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{679CB43A-627E-4ECF-8CCA-617217A1D025}">
+			<Child Name="wndShell_SecondaryTrayWnd" Owner="{EB352DE0-2FD5-4327-9FFA-593A28A691B8}">
+				<Child Name="WorkerW" Owner="{D67CAD5D-0DE4-4169-8B31-59B5B1A6CD27}">
+					<Child Name="MSTaskListWClass" Owner="{20B6EC69-D3DF-464F-A55E-238BF6C00050}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
